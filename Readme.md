@@ -1,7 +1,7 @@
 
 # Weather App With the help of Javascript
 
-its a simple website project on javascript created by useing HTML5 and CSS3 and offcause our Javascript.
+its a simple website project on javascript created by using HTML5 and CSS3 and offcause our Javascript.
 
 its very simple to create you can use it to view weather around the globe.
 
